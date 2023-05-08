@@ -1,1 +1,2 @@
 arquivos-nao-publicados.txt
+testeignore.txt
